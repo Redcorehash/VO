@@ -2,6 +2,7 @@
 
 [![Официальный сайт](https://img.shields.io/badge/Официальный_сайт-v0.dev-blue?style=for-the-badge&logo=google-chrome)](https://v0.dev)
 [![Документация](https://img.shields.io/badge/Документация-v0.dev/docs-green?style=for-the-badge&logo=read-the-docs)](https://v0.dev/docs)
+[![Версия](https://img.shields.io/badge/Версия-1.0.0-orange?style=for-the-badge)](https://github.com/v0-dev/v0/releases)
 
 `v0.dev` — это инновационный инструмент для разработчиков, созданный для упрощения и ускорения процесса создания пользовательских интерфейсов (UI). С помощью `v0.dev` вы можете генерировать готовые к использованию компоненты и макеты, используя современные технологии и лучшие практики дизайна.
 
